@@ -256,7 +256,7 @@ h5 {
     color: yellow;
   }
 }
-@media screen and (min-width: 4500px) {
+@media screen and (min-width: 5000px) {
   .header {
     background-color: black;
     opacity: 0.7;
