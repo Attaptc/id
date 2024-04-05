@@ -251,5 +251,8 @@ h5 {
   background-color: black;
   color: yellow;
   }
-  
+  .name {
+    text-align: center;
+    font-size: 20px
+    color: #fff;
 }  
