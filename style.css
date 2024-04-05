@@ -241,13 +241,15 @@ h5 {
   color: blue;
   user-select: none;
 }
-  .jam {
+.jam {
     font-size: 42px;
     font-family: digital7;
     color: red;
+    text-align: right;
   }
   .teks {
   background-color: black;
   color: yellow;
   }
+  
 }  
